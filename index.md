@@ -1,6 +1,6 @@
 # Aarav Vidhawan
 
-Welcome to my personal GitHub page. I'm a Computer Engineering student at **UC San Diego**, passionate about systems programming, digital design, and building embedded systems projects. This page introduces who I am as a programmer and as a person.
+Welcome to my personal GitHub page. I'm a Computer Engineering student at **UC San Diego**, passionate about computer architecture, digital design, and building embedded systems projects. 
 
 ![My Picture](your-image-link-here)
 
@@ -16,6 +16,7 @@ Relevant Coursework:
 - Digital Systems Lab
 - Circuits and Systems
 - Linear Algebra
+- Advanced Data Structures
 
 ## Experience
 
@@ -60,6 +61,16 @@ Ordered list of programming languages I learned in order:
 4. Assembly
 5. JavaScript
 
+Here is a sample code snippet from one of my C++ projects:
+
+```cpp
+#include <iostream>
+
+int main() {
+    std::cout << "Hello from the MacroPad project!" << std::endl;
+    return 0;
+}
+```
 ## Quote
 
 > “Programs must be written for people to read, and only incidentally for machines to execute.”  
@@ -87,3 +98,4 @@ Check out my [README](README.md) file for more information about this repository
 - [x] Include all Markdown features  
 - [ ] Add pictures  
 - [x] Publish page using GitHub Pages
+
