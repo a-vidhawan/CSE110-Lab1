@@ -2,7 +2,7 @@
 
 Welcome to my personal GitHub page. I'm a Computer Engineering student at **UC San Diego**, passionate about computer architecture, digital design, and building embedded systems projects. 
 
-![My Picture](your-image-link-here)
+![My Picture](pfpgit.jpg)
 
 ## Education
 
@@ -51,7 +51,7 @@ Unordered list of tools I frequently use:
 * Quartus Prime
 * ModelSim
 * GitHub
-* LTSpice
+* PSpice
 * Arduino IDE
 
 Ordered list of programming languages I learned in order:
